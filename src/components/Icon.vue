@@ -33,5 +33,7 @@ export default {
         font-family: iconFont;
         font-size: 36px;
         color: #333333;
+        width: 40px;
+        height: 40px;
     }
 </style>
